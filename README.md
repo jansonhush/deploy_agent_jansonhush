@@ -4,7 +4,7 @@ A shell script (`deploy_agent.sh`) that deploys, runs and archives the logs of a
 
 The Python app (`attendance_checker.py`) is not modified. Everything here is shell scripting around it.
 
-**Run-through video:** [https://youtube.com/jansonhush/myvideo]
+**Run-through video:** [https://youtu.be/vUcITq1fh6M]
 
 ## Repository contents
 
